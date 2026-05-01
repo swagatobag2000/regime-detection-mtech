@@ -25,31 +25,6 @@ Instead of relying only on price data, this system integrates:
 
 ---
 
-## 🧠 Why This Project is Different
-
-Most trading or prediction systems:
-
-* Only use price/technical indicators
-* Ignore macro + geopolitical context
-
-This project:
-
-* Combines **5 independent signal layers**
-* Builds a **314-month feature matrix (2000–2026)**
-* Uses **NLP + macroeconomics + event-driven modeling**
-* Designed for **institutional-grade analysis**
-
----
-
-## 🏗️ System Architecture (Conceptual)
-
-💡 Interpretation:
-
-* Each data source captures a **different dimension of risk**
-* Final model learns **hidden interactions across domains**
-
----
-
 ## 📂 Project Structure (Detailed with Explanation)
 
 ```
