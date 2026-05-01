@@ -108,18 +108,6 @@ A **production-grade data pipeline** that:
 
 ---
 
-### 🔹 Output
-
-```bash
-gpr_combined_monthly.csv
-```
-
-* 📅 2000 → 2026
-* 📊 80+ features
-* 🧠 Ready for ML/DL models
-
----
-
 ## 🧪 Phase 02 — EDA & Modeling (In Progress 🚧)
 
 From your pipeline 
@@ -141,34 +129,6 @@ Instead of blindly training models, this phase:
 * XGBoost → structured prediction
 * LSTM → temporal dependencies
 * Prophet → time-series baseline
-
----
-
-## 📈 Expected Outcomes
-
-* Identification of **high vs low volatility regimes**
-* Improved predictions using **multi-source features**
-* Evidence that **deep learning captures temporal structure better**
-
----
-
-## 🧠 Key Innovations
-
-### 1. Multi-Source Fusion
-
-Instead of relying on a single dataset, the model learns from **independent signals**, improving robustness.
-
-### 2. India-Specific Risk Modeling
-
-GPR + macro + events are tailored to **Indian markets**, not generic global datasets.
-
-### 3. NLP + Finance Integration
-
-FinBERT converts raw news into **quantifiable sentiment signals**.
-
-### 4. Bias-Free Event Encoding
-
-Events are encoded structurally (not politically), ensuring **model neutrality**.
 
 ---
 
@@ -211,12 +171,3 @@ Can be extended to MIT / Apache 2.0.
 Give it a ⭐ on GitHub — it helps visibility and motivates further development.
 
 ---
-
-If you want next level upgrade, I can:
-
-* 🎯 Add **GitHub banner image (very premium look)**
-* 📊 Create **architecture diagram (visual flowchart)**
-* 🧠 Write **research paper abstract + methodology section**
-* 💼 Optimize this specifically for **resume + recruiter impact**
-
-Just tell me 👍
